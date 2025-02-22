@@ -1,5 +1,4 @@
 # Sales-Analysis-Using-Power-BI
-# Sales Data Analysis in Power BI
 
 ## Project Overview
 This project involves analyzing raw sales data for a company using **Power BI**. The goal was to clean, refine, and transform the data into meaningful insights using **DAX commands** and an **interactive dashboard**.
